@@ -91,7 +91,9 @@ Nimbus
 
 
 
+Tax implications:
 
+There may be ramifications that go with staking including tax liabilities. Taxation advice from a certified professional should be sought
 
 
 

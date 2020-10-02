@@ -2,7 +2,7 @@
 
 Ethereum 2 Staking means locking up 32 Ether and running a piece of software that secures the Ethereum 2 network. In exchange for doing this service stakers receive small payouts every 6 minutes. The new Ethereum network is still in development and stakers who deposit Ether now should expect it to be completely locked up for two years.
 
-The **BEST** place to learn about Ethereum 2 is by reading [EIP 2982, the proposal to integrate Ethereum 2 into the Ethereum 1 system]
+The **BEST** place to learn about Ethereum 2 is by reading [EIP 2982, the proposal to integrate Ethereum 2 into the Ethereum 1 system](https://github.com/ethereum/EIPs/blob/5dc1b8ddd645af01c81da8817b6bcc8ff883b9d6/EIPS/eip-2982.md)
 
 ## Staking Incentives / Rewards 
 ### Why stake? 

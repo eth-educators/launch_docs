@@ -24,11 +24,12 @@ See the clients table for guides.
 
 ## Types of staking:
 ### Solo
+- Choosing hardware: [/u/coinmonk's guide](https://medium.com/coinmonks/what-hardware-for-an-ethereum-2-0-validator-e8f5f89de43e), [add lamboshi's guide]()
 - Run your own Eth2 client (Linux/Windows/Mac)
 ### Third party pooling
 - Rocket pool
 ### Custodial
-?
+- Custodial staking solutions
 
 ## Ethereum 2 staking clients
 
@@ -42,6 +43,8 @@ See the clients table for guides.
 ## Choosing a client
 
 ## Installation guides
+
+[Getting started with Eth2 Staking on Docker](https://www.youtube.com/watch?v=YxrsJO4Wra8) by YorickDowne
 
 ## Rubric for windows/mac/linux, system specs, etc.
 

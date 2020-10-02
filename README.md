@@ -26,10 +26,10 @@ See the clients table for guides.
 ### Solo
 - Choosing hardware: [/u/coinmonk's guide](https://medium.com/coinmonks/what-hardware-for-an-ethereum-2-0-validator-e8f5f89de43e), [add lamboshi's guide]()
 - Run your own Eth2 client (Linux/Windows/Mac)
-### Third party pooling
-- Rocket pool
-### Custodial
-- Custodial staking solutions
+### Custodial & Third party pooling
+- Note that the Ethstaker community encourages solo staking and does not endorse services, but we WILL provide support as much as possible and we encourage you to do what's best for you.
+- [Beaconcha.in](https://beaconcha.in/stakingServices) hosts a comprehensive list of custodial and third party staking services.
+
 
 ## Ethereum 2 staking clients
 

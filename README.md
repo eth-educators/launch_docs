@@ -35,12 +35,12 @@ See the clients table for guides.
 
 ## Ethereum 2 staking clients
 
-|Client|Readiness 1-5|Runs on|Official Documentation|Launchpad guide|Complete guide|Video|
-|---|---|---|---|---|---|---|
-|Ligthhouse| 5 | Linux, MacOS, Windows | [Link](https://lighthouse-book.sigmaprime.io/) | [launchpad](https://launchpad.ethereum.org/lighthouse) | somer? | somer?  |
-|Nimbus| 4 | Linux, MacOS, Windows, [Android](https://our.status.im/building-nimbus-on-android/) | [Link](https://status-im.github.io/nim-beacon-chain/) | [launchpad](https://launchpad.ethereum.org/nimbus) |  |  |
-|Prysm| 5 | Linux, MacOS, Windows | [Link](https://docs.prylabs.network/docs/) | [launchpad](https://launchpad.ethereum.org/prysm) |  |  |
-|Teku| 5 | Linux, MacOS, Windows | [Link](https://docs.teku.pegasys.tech/en/latest/) | [launchpad](https://launchpad.ethereum.org/teku) |  |  |
+|Client|Runs on|Official Documentation|Launchpad guide|Complete guide|Video|
+|---|---|---|---|---|---|
+|Ligthhouse| Linux, MacOS, Windows | [Link](https://lighthouse-book.sigmaprime.io/) | [launchpad](https://launchpad.ethereum.org/lighthouse) | somer? | somer?  |
+|Nimbus| Linux, MacOS, Windows, [Android](https://our.status.im/building-nimbus-on-android/) | [Link](https://status-im.github.io/nim-beacon-chain/) | [launchpad](https://launchpad.ethereum.org/nimbus) |  |  |
+|Prysm| Linux, MacOS, Windows | [Link](https://docs.prylabs.network/docs/) | [launchpad](https://launchpad.ethereum.org/prysm) |  |  |
+|Teku| Linux, MacOS, Windows | [Link](https://docs.teku.pegasys.tech/en/latest/) | [launchpad](https://launchpad.ethereum.org/teku) |  |  |
 
 ## Choosing a client
 

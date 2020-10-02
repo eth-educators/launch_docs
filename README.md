@@ -39,7 +39,7 @@ See the clients table for guides.
 |---|---|---|---|---|---|
 |Ligthhouse| Linux, MacOS, Windows | [Link](https://lighthouse-book.sigmaprime.io/) | [launchpad](https://launchpad.ethereum.org/lighthouse) | somer? | somer?  |
 |Nimbus| Linux, MacOS, Windows, [Android](https://our.status.im/building-nimbus-on-android/) | [Link](https://status-im.github.io/nim-beacon-chain/) | [launchpad](https://launchpad.ethereum.org/nimbus) |  |  |
-|Prysm| Linux, MacOS, Windows | [Link](https://docs.prylabs.network/docs/) | [launchpad](https://launchpad.ethereum.org/prysm) |  |  |
+|Prysm| Linux, MacOS, Windows | [Link](https://docs.prylabs.network/docs/) | [launchpad](https://launchpad.ethereum.org/prysm) | Unvetica | Unvetica |
 |Teku| Linux, MacOS, Windows | [Link](https://docs.teku.pegasys.tech/en/latest/) | [launchpad](https://launchpad.ethereum.org/teku) |  |  |
 
 ## Choosing a client

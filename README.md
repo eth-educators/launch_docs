@@ -1,3 +1,15 @@
+# Welcome
+
+I would like to warmly welcome everyone to r/ethstaker. Please protect this community's philosophy by respecting our rules. Let me quote the most important ones here for reference:
+    
+* Note that the the primary goal of this community is to be welcoming first and knowledgable second.
+* We welcome all persons regardless of identifying criteria. As an extension of that, we will work harder to welcome those who may appear different.
+* Do not discuss or use this reddit to engage in activity that may be considered illegal.
+* Keep non Ethereum staking to r/staking.
+* Keep plain Ethereum development discussion to r/ethereum.
+* Keep price discussion and market talk to subreddits such as /r/ethfinance or r/ethtrader.
+* Keep mining discussion to subreddits such as /r/ethermining.
+
 # What is Ethereum 2 Staking?
 
 Ethereum 2 Staking means locking up 32 Ether and running a piece of software that secures the Ethereum 2 network. In exchange for doing this service stakers receive small payouts every 6 minutes. The new Ethereum network is still in development and stakers who deposit Ether now should expect it to be completely locked up for two years.

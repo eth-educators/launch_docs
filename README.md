@@ -1,7 +1,9 @@
 # Welcome
 
-Please take a moment to watch our [youtube introduction to the EthStaker community!](https://www.youtube.com/watch?v=FHvtPIV9QGc)
+---
+Please take a moment to watch our **[youtube introduction to the EthStaker community!](https://www.youtube.com/watch?v=FHvtPIV9QGc)**
 
+---
 I would like to warmly welcome everyone to r/ethstaker. Please protect this community's philosophy by respecting our rules. Let me quote the most important ones here for reference:
     
 * Note that the the primary goal of this community is to be welcoming first and knowledgable second.

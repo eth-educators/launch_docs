@@ -9,6 +9,8 @@ Here are links to some things mentioned in this video:
 * [POAP (Proof of Attendance Protocol)](https://app.poap.xyz) presented by /u/worthalter
 * [The Eth2-Studymaster Program](https://reddit.com/r/ethstaker/wiki/studymaster) developed by /u/superphiz soon to be managed by /u/unvetica_solutions
 * [Eth2SCC on Twitter](https://twitter.com/eth2scc) managed by /u/LamboshiNakaghini
+* r/ethfinance home of a fantastic daily thread with lots of valudable conversation
+* [Beaconcha.in[(https://beaconcha.in) an Ethereum 2 chain explorer developed by bitfly where /u/butta_tribot keeps an eye on the node
 
 ---
 I would like to warmly welcome everyone to r/ethstaker. Please protect this community's philosophy by respecting our rules. Let me quote the most important ones here for reference:

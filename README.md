@@ -1,5 +1,7 @@
 # Welcome
 
+Please take a moment to watch our [youtube introduction to the EthStaker community!](https://www.youtube.com/watch?v=FHvtPIV9QGc)
+
 I would like to warmly welcome everyone to r/ethstaker. Please protect this community's philosophy by respecting our rules. Let me quote the most important ones here for reference:
     
 * Note that the the primary goal of this community is to be welcoming first and knowledgable second.
@@ -38,7 +40,8 @@ See the clients table for guides.
 
 ## Types of staking:
 ### Solo
-- Choosing hardware: [/u/coinmonk's guide](https://medium.com/coinmonks/what-hardware-for-an-ethereum-2-0-validator-e8f5f89de43e), [add lamboshi's guide]()
+- Choosing hardware: [/u/LamboshiNakaghini's hardware guide](https://www.reddit.com/r/ethstaker/comments/j3mlup/a_slightly_updated_look_at_hardware_for_staking/), [/u/coinmonk's guide](https://medium.com/coinmonks/what-hardware-for-an-ethereum-2-0-validator-e8f5f89de43e) 
+
 - Run your own Eth2 client (Linux/Windows/Mac)
 ### Custodial & Third party pooling
 - Note that the Ethstaker community encourages solo staking and does not endorse services, but we WILL provide support as much as possible and we encourage you to do what's best for you.
@@ -59,6 +62,7 @@ See the clients table for guides.
 ## Installation guides
 
 [Getting started with Eth2 Staking on Docker](https://www.youtube.com/watch?v=YxrsJO4Wra8) by YorickDowne
+
 [Staking with DappNode](https://medium.com/@RaymondDurk/how-to-stake-for-ethereum-2-0-with-dappnode-231fa7689c02) by u/Raymonddurk
 
 ## Rubric for windows/mac/linux, system specs, etc.

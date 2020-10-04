@@ -3,6 +3,12 @@
 ---
 Please take a moment to watch our **[youtube introduction to the EthStaker community!](https://www.youtube.com/watch?v=FHvtPIV9QGc)**
 
+Here are links to some things mentioned in this video:
+
+* [The EthStaker discord channel](http://invite.gg/ethstaker) managed by /u/butta_tribot
+* [POAP (Proof of Attendance Protocol)](https://app.poap.xyz] presented by /u/worthalter
+* [The Eth2-Studymaster Program](https://reddit.com/r/ethstaker/wiki/studymaster) developed by /u/superphiz soon to be managed by /u/unvetica_solutions
+
 ---
 I would like to warmly welcome everyone to r/ethstaker. Please protect this community's philosophy by respecting our rules. Let me quote the most important ones here for reference:
     
@@ -32,13 +38,14 @@ The **BEST** place to learn about Ethereum 2 is by reading [EIP 2982, the propos
 - (Post the staking returns chart here)
 
 ## Getting started on mainnet
-Go to Launch Pad to stake
-See the clients table for guides.
+
+* To learn more about making a deposit to become a validator on mainnet, check out https://launchpad.ethereum.org
+* See the clients table for guides.
 
 ## Getting started on a testnet
-Go to Launch Pad to stake
-See the clients table for guides.
-(SE: Will there be a testnet running during Phase 0 for newbies/client teams to practice/test on?)
+
+* To get started on the Medalla Testnet, check out https://medalla.launchpad.ethereum.org
+* See the clients table for guides.
 
 ## Types of staking:
 ### Solo

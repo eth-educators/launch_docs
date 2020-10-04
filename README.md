@@ -6,7 +6,7 @@ Please take a moment to watch our **[youtube introduction to the EthStaker commu
 Here are links to some things mentioned in this video:
 
 * [The EthStaker discord channel](http://invite.gg/ethstaker) managed by /u/butta_tribot
-* [POAP (Proof of Attendance Protocol)](https://app.poap.xyz] presented by /u/worthalter
+* [POAP (Proof of Attendance Protocol)](https://app.poap.xyz) presented by /u/worthalter
 * [The Eth2-Studymaster Program](https://reddit.com/r/ethstaker/wiki/studymaster) developed by /u/superphiz soon to be managed by /u/unvetica_solutions
 
 ---

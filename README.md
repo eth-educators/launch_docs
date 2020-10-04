@@ -59,6 +59,7 @@ See the clients table for guides.
 ## Installation guides
 
 [Getting started with Eth2 Staking on Docker](https://www.youtube.com/watch?v=YxrsJO4Wra8) by YorickDowne
+[Staking with DappNode](https://medium.com/@RaymondDurk/how-to-stake-for-ethereum-2-0-with-dappnode-231fa7689c02) by u/Raymonddurk
 
 ## Rubric for windows/mac/linux, system specs, etc.
 

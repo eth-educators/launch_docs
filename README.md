@@ -8,6 +8,7 @@ Here are links to some things mentioned in this video:
 * [The EthStaker discord channel](http://invite.gg/ethstaker) managed by /u/butta_tribot
 * [POAP (Proof of Attendance Protocol)](https://app.poap.xyz) presented by /u/worthalter
 * [The Eth2-Studymaster Program](https://reddit.com/r/ethstaker/wiki/studymaster) developed by /u/superphiz soon to be managed by /u/unvetica_solutions
+* [Eth2SCC on Twitter](https://twitter.com/eth2scc) our twitter managed by /u/LamboshiNakaghini
 
 ---
 I would like to warmly welcome everyone to r/ethstaker. Please protect this community's philosophy by respecting our rules. Let me quote the most important ones here for reference:

@@ -50,6 +50,9 @@ The **BEST** place to learn about Ethereum 2 is by reading [EIP 2982, the propos
 * To get started on the Medalla Testnet, check out https://medalla.launchpad.ethereum.org
 * See the clients table for guides.
 
+## Security Best Practices
+* [Coincashew Guide](https://www.coincashew.com/coins/overview-eth/guide-or-security-best-practices-for-a-eth2-validator-beaconchain-node)
+
 ## Types of Staking
 ### Solo
 - Choosing hardware: [/u/LamboshiNakaghini's hardware guide](https://www.reddit.com/r/ethstaker/comments/j3mlup/a_slightly_updated_look_at_hardware_for_staking/), [/u/coinmonk's guide](https://medium.com/coinmonks/what-hardware-for-an-ethereum-2-0-validator-e8f5f89de43e) 

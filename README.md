@@ -95,7 +95,7 @@ Also check this slightly out of date (but still relevant) breakdown of Ethereum 
 TBD
 
 ## Staking Risks
-Staking on Ethereum 2.0 is not with risks. Some common things to look out for are not limited to:
+Staking on Ethereum 2.0 has some risks. Some common things to look out for are not limited to:
 - Hardware related issues can impact a staking setup. For example: power failures, hardware failures, running out of disk space, etc.
 - Networking related issues such as DDoS attacks or general connectivity issues (e.g. severed cable).
 - Software related issues such as bugs in client software or OS issues.
@@ -110,4 +110,4 @@ Staking on Ethereum 2.0 is not with risks. Some common things to look out for ar
 
 Before you go, don't forget to make plans to join us in [Hawaii in 2022](https://superphiz.github.io/hawaii/).
 
-This sticky is maintained [here](https://github.com/eth2-educators/launch_docs/edit/master/README.md). Please submit lots of changes on the github then ping superphiz.
+This sticky is maintained [here](https://github.com/eth2-educators/launch_docs/blob/master/README.md). Please submit lots of changes on the github then ping superphiz, or just pm me here if you have something.

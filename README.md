@@ -23,11 +23,6 @@ I would like to warmly welcome everyone to r/ethstaker. Please protect this comm
 * Keep price discussion and market talk to subreddits such as /r/ethfinance or r/ethtrader.
 * Keep mining discussion to subreddits such as /r/ethermining.
 
-## You should get involved!
-
- * Sign up for our [collaboration groups](https://docs.google.com/forms/d/e/1FAIpQLScaK2zl-oa3QiYpxFQCuE9kHWMxGJOBLl_s82TryZ7J43GDPg/viewform) where you can be paired with four other stakers to join a private discord chat to get to know each other and swap experiences.
- * Participate in the [Ethereum Studymaster](https://ethereumstudymaster.com) where you can take quizzes to learn more about Ethereum and earn POAPs to demonstrate your knowledge.
-
 # What is Ethereum 2 Staking?
 
 Superphiz gave a talk at EthOnline 2020 titled ["Introduction to Ethereum 2 and Staking for Beginners"](https://www.youtube.com/watch?v=tpkpW031RCI) it's a great place to get introduced to these concepts.
@@ -35,6 +30,12 @@ Superphiz gave a talk at EthOnline 2020 titled ["Introduction to Ethereum 2 and 
 Ethereum 2 Staking means locking up 32 Ether and running a piece of software that secures the Ethereum 2 network. In exchange for doing this service stakers receive small payouts every 6 minutes. The new Ethereum network is still in development and stakers who deposit Ether now should expect it to be completely locked up for two years.
 
 The **BEST** place to learn about Ethereum 2 is by reading [EIP 2982, the proposal to integrate Ethereum 2 into the Ethereum 1 system](https://github.com/ethereum/EIPs/blob/5dc1b8ddd645af01c81da8817b6bcc8ff883b9d6/EIPS/eip-2982.md). /u/superphiz and /u/unvetica_solutions did a [full reading of this EIP and posted it to YouTube](https://www.youtube.com/watch?v=6_yW7mb6glQ).
+
+## You should get involved!
+
+ * Sign up for our [collaboration groups](https://docs.google.com/forms/d/e/1FAIpQLScaK2zl-oa3QiYpxFQCuE9kHWMxGJOBLl_s82TryZ7J43GDPg/viewform) where you can be paired with four other stakers to join a private discord chat to get to know each other and swap experiences.
+ * Participate in the [Ethereum Studymaster](https://ethereumstudymaster.com) where you can take quizzes to learn more about Ethereum and earn POAPs to demonstrate your knowledge.
+
 
 ## Staking Incentives / Rewards 
 ### Why stake? 
@@ -108,3 +109,5 @@ Staking on Ethereum 2.0 is not with risks. Some common things to look out for ar
 - Discords
 
 Before you go, don't forget to make plans to join us in [Hawaii in 2022](https://superphiz.github.io/hawaii/).
+
+This sticky is maintained at https://github.com/eth2-educators/launch_docs/edit/master/README.md

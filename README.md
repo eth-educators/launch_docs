@@ -110,4 +110,4 @@ Staking on Ethereum 2.0 is not with risks. Some common things to look out for ar
 
 Before you go, don't forget to make plans to join us in [Hawaii in 2022](https://superphiz.github.io/hawaii/).
 
-This sticky is maintained at https://github.com/eth2-educators/launch_docs/edit/master/README.md
+This sticky is maintained [here](https://github.com/eth2-educators/launch_docs/edit/master/README.md). Please submit lots of changes on the github then ping superphiz.

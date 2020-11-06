@@ -87,9 +87,19 @@ Also check this slightly out of date (but still relevant) breakdown of Ethereum 
 
 ## General Guides
 
+### Hardware
+[Hardware Staking Guide](https://www.reddit.com/r/ethstaker/comments/ggmbvd/a_comprehensive_look_at_hardware_for_staking/) by LamboshiNakaghini
+
+### Mainnet
+[How to stake on ETH2 Mainnet with Lighthouse on Ubuntu](https://www.coincashew.com/coins/overview-eth/guide-how-to-stake-on-eth2-with-lighthouse) by coincashew
+
 [Getting started with Eth2 Staking on Docker](https://www.youtube.com/watch?v=YxrsJO4Wra8) by YorickDowne
 
-[Staking with DappNode](https://medium.com/@RaymondDurk/how-to-stake-for-ethereum-2-0-with-dappnode-231fa7689c02) by /u/Raymonddurk
+[Running a staking system using Ubuntu 20.04 LTS on a NUC 10i5FNK](https://github.com/metanull-operator/eth2-ubuntu) by metanull-operator
+
+[How to stake with Dappnode](https://medium.com/@RaymondDurk/how-to-stake-for-ethereum-2-0-with-dappnode-231fa7689c02) by Raymond Durk
+
+[How to Stake with Ethereum 2.0: The Ultimate Guide to Set Up Everything and Earn Interest - Video Updated: November 2020](https://translate.google.com/translate?sl=it&tl=en&u=https%3A%2F%2Fturbolab.it%2Fcriptovalute-bitcoin-ethereum-litecoin-4904%2Fcome-fare-staking-ethereum-2.0-guida-definitiva-configurare-tutto-guadagnare-interessi-video-3050) by Zane
 
 ## Rubric for windows/mac/linux, system specs, etc.
 TBD

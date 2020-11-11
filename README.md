@@ -75,12 +75,12 @@ Estimate your potential earnings from staking with Ethereum: https://beaconcha.i
 
 ## Ethereum 2 Staking Clients
 
-|Client|Runs on|Documentation|Discord|Website|Launchpad Guide|Complete Guide|Video|
-|---|---|---|---|---|---|---|---|
-|Ligthhouse| Linux, MacOS, Windows | [Documentation](https://lighthouse-book.sigmaprime.io/) | [Discord](https://discord.gg/cyAszAh) | [Website](https://sigmaprime.io/) | [Launchpad](https://launchpad.ethereum.org/lighthouse) | [Somer Esat's Guide](https://medium.com/@SomerEsat/guide-to-staking-on-ethereum-2-0-ubuntu-medalla-lighthouse-c6f3c34597a8?source=friends_link&sk=26e3bbf906e46cf244ff1ee2f8271cd6) | TBD  |
-|Nimbus| Linux, MacOS, Windows, [Android](https://our.status.im/building-nimbus-on-android/) | [Documentation](https://status-im.github.io/nim-beacon-chain/) | [Discord](https://t.co/CYjHgi6wFI?amp=1) | [Website](https://nimbus.team/) | [Launchpad](https://launchpad.ethereum.org/nimbus) | [Somer Esat's Guide](https://medium.com/@SomerEsat/guide-to-staking-on-ethereum-2-0-ubuntu-medalla-nimbus-5f4b2b0f2d7c?source=friends_link&sk=ee272e7d2c5c53f9e69f302155cb1714) | TBD |
-|Prysm| Linux, MacOS, Windows | [Documentation](https://docs.prylabs.network/docs/) | [Discord](https://discord.gg/KSA7rPr) | [Website](https://prysmaticlabs.com/) | [Launchpad](https://launchpad.ethereum.org/prysm) | [Somer Esat's Guide](https://medium.com/@SomerEsat/guide-to-staking-on-ethereum-2-0-ubuntu-medalla-prysm-4d2a86cc637b?source=friends_link&sk=4cb64bfa20247d2b5c7a50ce0a92d33b)  | TBD |
-|Teku| Linux, MacOS, Windows | [Documentation](https://docs.teku.pegasys.tech/en/latest/) | [Discord](https://discord.gg/7hPv2T6) | [Website](https://pegasys.tech/teku/) | [Launchpad](https://launchpad.ethereum.org/teku) | [Somer Esat's Guide](https://medium.com/@SomerEsat/170e2c52bd23?source=friends_link&sk=5f88cc288bb247f1711b729ef91de003) | TBD |
+|Client|Runs on|Documentation|Discord|Website|Launchpad Guide|Complete Guide|
+|---|---|---|---|---|---|---|
+|Ligthhouse| Linux, MacOS, Windows | [Documentation](https://lighthouse-book.sigmaprime.io/) | [Discord](https://discord.gg/cyAszAh) | [Website](https://sigmaprime.io/) | [Launchpad](https://launchpad.ethereum.org/lighthouse) | [Somer Esat's Guide](https://medium.com/@SomerEsat/guide-to-staking-on-ethereum-2-0-ubuntu-medalla-lighthouse-c6f3c34597a8?source=friends_link&sk=26e3bbf906e46cf244ff1ee2f8271cd6) |
+|Nimbus| Linux, MacOS, Windows, [Android](https://our.status.im/building-nimbus-on-android/) | [Documentation](https://status-im.github.io/nim-beacon-chain/) | [Discord](https://t.co/CYjHgi6wFI?amp=1) | [Website](https://nimbus.team/) | [Launchpad](https://launchpad.ethereum.org/nimbus) | [Somer Esat's Guide](https://medium.com/@SomerEsat/guide-to-staking-on-ethereum-2-0-ubuntu-medalla-nimbus-5f4b2b0f2d7c?source=friends_link&sk=ee272e7d2c5c53f9e69f302155cb1714) |
+|Prysm| Linux, MacOS, Windows | [Documentation](https://docs.prylabs.network/docs/) | [Discord](https://discord.gg/KSA7rPr) | [Website](https://prysmaticlabs.com/) | [Launchpad](https://launchpad.ethereum.org/prysm) | [Somer Esat's Guide](https://medium.com/@SomerEsat/guide-to-staking-on-ethereum-2-0-ubuntu-medalla-prysm-4d2a86cc637b?source=friends_link&sk=4cb64bfa20247d2b5c7a50ce0a92d33b)  |
+|Teku| Linux, MacOS, Windows | [Documentation](https://docs.teku.pegasys.tech/en/latest/) | [Discord](https://discord.gg/7hPv2T6) | [Website](https://pegasys.tech/teku/) | [Launchpad](https://launchpad.ethereum.org/teku) | [Somer Esat's Guide](https://medium.com/@SomerEsat/170e2c52bd23?source=friends_link&sk=5f88cc288bb247f1711b729ef91de003) |
 
 ## Choosing a Client
 Choosing a client that is right for you can be challenging. In general, the clients listed above are all viable options for staking on Eth2 - they are all compliant with the latest Eth2 specification. Each client uses a slightly different configurtation and set-up, and offers different features. Ideally you can try each client out on the Medalla testnet (see the Complete Guides in the table above) to get a feel for which client is right for you.
@@ -103,8 +103,7 @@ Also check this slightly out of date (but still relevant) breakdown of Ethereum 
 
 [How to Stake with Ethereum 2.0: The Ultimate Guide to Set Up Everything and Earn Interest - Video Updated: November 2020](https://translate.google.com/translate?sl=it&tl=en&u=https%3A%2F%2Fturbolab.it%2Fcriptovalute-bitcoin-ethereum-litecoin-4904%2Fcome-fare-staking-ethereum-2.0-guida-definitiva-configurare-tutto-guadagnare-interessi-video-3050) by Zane
 
-## Rubric for windows/mac/linux, system specs, etc.
-TBD
+[Using Windows 10 to install Ubuntu subsystem for staking](https://www.microsoft.com/en-us/p/ubuntu-2004-lts/9n6svws3rx71)
 
 ## Staking Risks
 Staking on Ethereum 2.0 has some risks. Some common things to look out for are not limited to:

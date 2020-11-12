@@ -95,6 +95,8 @@ Also check this slightly out of date (but still relevant) breakdown of Ethereum 
 ### Mainnet
 [How to stake on ETH2 Mainnet with Lighthouse on Ubuntu](https://www.coincashew.com/coins/overview-eth/guide-how-to-stake-on-eth2-with-lighthouse) by coincashew
 
+[Setup an Eth2 Mainnet Validator System With Prysm on Ubuntu](https://github.com/metanull-operator/eth2-ubuntu) by metanull-operator
+
 [Getting started with Eth2 Staking on Docker](https://www.youtube.com/watch?v=YxrsJO4Wra8) by YorickDowne
 
 [Running a staking system using Ubuntu 20.04 LTS on a NUC 10i5FNK](https://github.com/metanull-operator/eth2-ubuntu) by metanull-operator

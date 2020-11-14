@@ -38,12 +38,14 @@ Estimate your potential earnings from staking with Ethereum: https://beaconcha.i
  * Sign up for our [collaboration groups](https://docs.google.com/forms/d/e/1FAIpQLScaK2zl-oa3QiYpxFQCuE9kHWMxGJOBLl_s82TryZ7J43GDPg/viewform) where you can be paired with four other stakers to join a private discord chat to get to know each other and swap experiences.
  * Participate in the [Ethereum Studymaster](https://ethereumstudymaster.com) where you can take quizzes to learn more about Ethereum and earn POAPs to demonstrate your knowledge.
 
+## Staking FAQ's
+ - [Lamboshi's FAQ](https://www.reddit.com/r/ethstaker/comments/ju61pf)
 
 ## Staking Incentives / Rewards 
 ### Why stake? 
 - Help secure the Etherem network. 
 - Help maintain decentralization/security. 
-- Earn a retrun on your staked ETH.
+- Earn a return on your staked ETH.
 
 ### Staking Rewards
 - Returns depend on how much ETH is staked.
@@ -61,6 +63,7 @@ Estimate your potential earnings from staking with Ethereum: https://beaconcha.i
 * See the clients table for guides.
 
 ## Security Best Practices
+* [/u/masterRoshi9 Guide](https://www.reddit.com/r/ethstaker/comments/jtn2tx/examining_security_considerations_for_staking/)
 * [Coincashew Guide](https://www.coincashew.com/coins/overview-eth/guide-or-security-best-practices-for-a-eth2-validator-beaconchain-node)
 
 ## Types of Staking

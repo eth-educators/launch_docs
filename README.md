@@ -117,11 +117,6 @@ Staking on Ethereum 2.0 has some risks. Some common things to look out for are n
 - ETH2 related issues relating to mainnet problems.
 - Taxation may apply to staking rewards depending on your local tax laws. Check with a licensed professional.
 
-## Getting Help
-- Links (Articles/videos/etc.)
-- Reddits
-- Discords
-
 Before you go, don't forget to make plans to join us in [Hawaii in 2022](https://superphiz.github.io/hawaii/).
 
 This sticky is maintained [here](https://github.com/eth2-educators/launch_docs/blob/master/README.md). Please submit lots of changes on the github then ping superphiz, or just pm me here if you have something.

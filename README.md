@@ -49,7 +49,6 @@ The **BEST** place to learn about Ethereum 2 is by reading [EIP 2982, the propos
 - Returns depend on how much ETH is staked.
 - You will receive a return on your stake, in regular small increments.
 - [Return Calculator](https://beaconcha.in/calculator)
-- (Post the staking returns chart here)
 
 ## Getting started on mainnet
 

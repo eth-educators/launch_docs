@@ -50,6 +50,7 @@ Estimate your potential earnings from staking with Ethereum: https://beaconcha.i
 ### Staking Rewards
 - Returns depend on how much ETH is staked.
 - You will receive a return on your stake, in regular small increments.
+- [Return Calculator](https://beaconcha.in/calculator)
 - (Post the staking returns chart here)
 
 ## Getting started on mainnet

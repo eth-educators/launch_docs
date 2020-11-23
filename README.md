@@ -57,7 +57,7 @@ The **BEST** place to learn about Ethereum 2 is by reading [EIP 2982, the propos
 
 ## Getting started on a testnet
 
-* To get started on the Medalla Testnet, check out https://medalla.launchpad.ethereum.org
+* To get started on the Pyrmont Testnet, check out https://pyrmont.launchpad.ethereum.org
 * See the clients table for guides.
 
 ## Security Best Practices
@@ -84,7 +84,7 @@ The **BEST** place to learn about Ethereum 2 is by reading [EIP 2982, the propos
 |Teku| Linux, MacOS, Windows | [Documentation](https://docs.teku.pegasys.tech/en/latest/) | [Discord](https://discord.gg/7hPv2T6) | [Website](https://pegasys.tech/teku/) | [Launchpad](https://launchpad.ethereum.org/teku) | [Somer Esat's Guide](https://someresat.medium.com/3da74372910?source=friends_link&sk=835747c0fab93ccf85b4866ffae74b25) |
 
 ## Choosing a Client
-Choosing a client that is right for you can be challenging. In general, the clients listed above are all viable options for staking on Eth2 - they are all compliant with the latest Eth2 specification. Each client uses a slightly different configurtation and set-up, and offers different features. Ideally you can try each client out on the Medalla testnet (see the Complete Guides in the table above) to get a feel for which client is right for you.
+Choosing a client that is right for you can be challenging. In general, the clients listed above are all viable options for staking on Eth2 - they are all compliant with the latest Eth2 specification. Each client uses a slightly different configurtation and set-up, and offers different features. Ideally you can try each client out on the Pyrmont testnet (see the Complete Guides in the table above) to get a feel for which client is right for you.
 
 Also check this slightly out of date (but still relevant) breakdown of Ethereum 2.0 clients: [Ethereum 2.0 and the Seven Clients](https://medium.com/@SomerEsat/ethereum-and-the-seven-clients-648815c4ac71?source=friends_link&sk=f189004508282177cc15b17348ba8b50) by /u/SomerEsat.
 

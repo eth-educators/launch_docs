@@ -76,12 +76,12 @@ The **BEST** place to learn about Ethereum 2 is by reading [EIP 2982, the propos
 
 ## Ethereum 2 Staking Clients
 
-|Client|Runs on|Documentation|Discord|Website|Launchpad Guide|Complete Guide|
-|---|---|---|---|---|---|---|
-|Ligthhouse| Linux, MacOS, Windows | [Documentation](https://lighthouse-book.sigmaprime.io/) | [Discord](https://discord.gg/cyAszAh) | [Website](https://sigmaprime.io/) | [Launchpad](https://launchpad.ethereum.org/lighthouse) | [Somer Esat's Guide](https://someresat.medium.com/guide-to-staking-on-ethereum-2-0-ubuntu-pyrmont-lighthouse-a634d3b87393?sk=459494148fdab0b03c675ea0864d7486) |
-|Nimbus| Linux, MacOS, Windows, [Android](https://our.status.im/building-nimbus-on-android/) | [Documentation](https://status-im.github.io/nim-beacon-chain/) | [Discord](https://t.co/CYjHgi6wFI?amp=1) | [Website](https://nimbus.team/) | [Launchpad](https://launchpad.ethereum.org/nimbus) | [Somer Esat's Guide](https://medium.com/@SomerEsat/guide-to-staking-on-ethereum-2-0-ubuntu-medalla-nimbus-5f4b2b0f2d7c?source=friends_link&sk=ee272e7d2c5c53f9e69f302155cb1714) |
-|Prysm| Linux, MacOS, Windows | [Documentation](https://docs.prylabs.network/docs/) | [Discord](https://discord.gg/KSA7rPr) | [Website](https://prysmaticlabs.com/) | [Launchpad](https://launchpad.ethereum.org/prysm) | [Somer Esat's Guide](https://someresat.medium.com/guide-to-staking-on-ethereum-2-0-ubuntu-pyrmont-prysm-a10b5129c7e3?sk=bf99be4e432410badda3d2844f3d95d3) |
-|Teku| Linux, MacOS, Windows | [Documentation](https://docs.teku.pegasys.tech/en/latest/) | [Discord](https://discord.gg/7hPv2T6) | [Website](https://pegasys.tech/teku/) | [Launchpad](https://launchpad.ethereum.org/teku) | [Somer Esat's Guide](https://someresat.medium.com/3da74372910?source=friends_link&sk=835747c0fab93ccf85b4866ffae74b25) |
+|Client|Runs on|Documentation|Discord|Website|Launchpad Guide|
+|---|---|---|---|---|---|
+|Ligthhouse| Linux, MacOS, Windows | [Documentation](https://lighthouse-book.sigmaprime.io/) | [Discord](https://discord.gg/cyAszAh) | [Website](https://sigmaprime.io/) | [Launchpad](https://launchpad.ethereum.org/lighthouse) | 
+|Nimbus| Linux, MacOS, Windows, [Android](https://our.status.im/building-nimbus-on-android/) | [Documentation](https://status-im.github.io/nim-beacon-chain/) | [Discord](https://t.co/CYjHgi6wFI?amp=1) | [Website](https://nimbus.team/) | [Launchpad](https://launchpad.ethereum.org/nimbus) | 
+|Prysm| Linux, MacOS, Windows | [Documentation](https://docs.prylabs.network/docs/) | [Discord](https://discord.gg/KSA7rPr) | [Website](https://prysmaticlabs.com/) | [Launchpad](https://launchpad.ethereum.org/prysm) | 
+|Teku| Linux, MacOS, Windows | [Documentation](https://docs.teku.pegasys.tech/en/latest/) | [Discord](https://discord.gg/7hPv2T6) | [Website](https://pegasys.tech/teku/) | [Launchpad](https://launchpad.ethereum.org/teku) | 
 
 ## Choosing a Client
 Choosing a client that is right for you can be challenging. In general, the clients listed above are all viable options for staking on Eth2 - they are all compliant with the latest Eth2 specification. Each client uses a slightly different configurtation and set-up, and offers different features. Ideally you can try each client out on the Pyrmont testnet (see the Complete Guides in the table above) to get a feel for which client is right for you.
@@ -89,6 +89,16 @@ Choosing a client that is right for you can be challenging. In general, the clie
 Also check this slightly out of date (but still relevant) breakdown of Ethereum 2.0 clients: [Ethereum 2.0 and the Seven Clients](https://medium.com/@SomerEsat/ethereum-and-the-seven-clients-648815c4ac71?source=friends_link&sk=f189004508282177cc15b17348ba8b50) by /u/SomerEsat.
 
 ## General Guides
+
+### Installation
+
+|Client|Somer Esat Guides
+|---|---|
+|Ligthhouse|  [Somer Esat's Guide](https://someresat.medium.com/guide-to-staking-on-ethereum-2-0-ubuntu-pyrmont-lighthouse-a634d3b87393?sk=459494148fdab0b03c675ea0864d7486) |
+|Nimbus|  [Somer Esat's Guide](https://medium.com/@SomerEsat/guide-to-staking-on-ethereum-2-0-ubuntu-medalla-nimbus-5f4b2b0f2d7c?source=friends_link&sk=ee272e7d2c5c53f9e69f302155cb1714) |
+|Prysm|  [Somer Esat's Guide](https://someresat.medium.com/guide-to-staking-on-ethereum-2-0-ubuntu-pyrmont-prysm-a10b5129c7e3?sk=bf99be4e432410badda3d2844f3d95d3) |
+|Teku|  [Somer Esat's Guide](https://someresat.medium.com/3da74372910?source=friends_link&sk=835747c0fab93ccf85b4866ffae74b25) |
+
 
 ### Hardware
 [Hardware Staking Guide](https://www.reddit.com/r/ethstaker/comments/ggmbvd/a_comprehensive_look_at_hardware_for_staking/) by LamboshiNakaghini

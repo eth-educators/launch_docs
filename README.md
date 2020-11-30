@@ -92,19 +92,18 @@ Also check this slightly out of date (but still relevant) breakdown of Ethereum 
 
 ### Installation
 
-|Client|Somer Esat Guides
-|---|---|
-|Ligthhouse|  [Somer Esat's Guide](https://someresat.medium.com/guide-to-staking-on-ethereum-2-0-ubuntu-pyrmont-lighthouse-a634d3b87393?sk=459494148fdab0b03c675ea0864d7486) |
-|Nimbus|  [Somer Esat's Guide](https://medium.com/@SomerEsat/guide-to-staking-on-ethereum-2-0-ubuntu-medalla-nimbus-5f4b2b0f2d7c?source=friends_link&sk=ee272e7d2c5c53f9e69f302155cb1714) |
-|Prysm|  [Somer Esat's Guide](https://someresat.medium.com/guide-to-staking-on-ethereum-2-0-ubuntu-pyrmont-prysm-a10b5129c7e3?sk=bf99be4e432410badda3d2844f3d95d3) |
-|Teku|  [Somer Esat's Guide](https://someresat.medium.com/3da74372910?source=friends_link&sk=835747c0fab93ccf85b4866ffae74b25) |
+|Client|Somer Esat Guides|CoinCashew (Testnet)| CoinCashew (Mainnet)
+|---|---|---|---|
+|Ligthhouse|  [Somer Esat's Guide](https://someresat.medium.com/guide-to-staking-on-ethereum-2-0-ubuntu-pyrmont-lighthouse-a634d3b87393?sk=459494148fdab0b03c675ea0864d7486) | [CoinCashew (Testnet)](https://www.coincashew.com/coins/overview-eth/guide-or-how-to-setup-a-validator-on-eth2-testnet) | [CoinCashew (Mainnet)](https://www.coincashew.com/coins/overview-eth/guide-or-how-to-setup-a-validator-on-eth2-mainnet) |
+|Nimbus|  [Somer Esat's Guide](https://medium.com/@SomerEsat/guide-to-staking-on-ethereum-2-0-ubuntu-medalla-nimbus-5f4b2b0f2d7c?source=friends_link&sk=ee272e7d2c5c53f9e69f302155cb1714) |[CoinCashew (Testnet)](https://www.coincashew.com/coins/overview-eth/guide-or-how-to-setup-a-validator-on-eth2-testnet)  |[CoinCashew (Mainnet)](https://www.coincashew.com/coins/overview-eth/guide-or-how-to-setup-a-validator-on-eth2-mainnet) |
+|Prysm|  [Somer Esat's Guide](https://someresat.medium.com/guide-to-staking-on-ethereum-2-0-ubuntu-pyrmont-prysm-a10b5129c7e3?sk=bf99be4e432410badda3d2844f3d95d3) | [CoinCashew (Testnet)](https://www.coincashew.com/coins/overview-eth/guide-or-how-to-setup-a-validator-on-eth2-testnet) |[CoinCashew (Mainnet)](https://www.coincashew.com/coins/overview-eth/guide-or-how-to-setup-a-validator-on-eth2-mainnet) |
+|Teku|  [Somer Esat's Guide](https://someresat.medium.com/3da74372910?source=friends_link&sk=835747c0fab93ccf85b4866ffae74b25) | [CoinCashew (Testnet)](https://www.coincashew.com/coins/overview-eth/guide-or-how-to-setup-a-validator-on-eth2-testnet) |[CoinCashew (Mainnet)](https://www.coincashew.com/coins/overview-eth/guide-or-how-to-setup-a-validator-on-eth2-mainnet) |
 
 
 ### Hardware
 [Hardware Staking Guide](https://www.reddit.com/r/ethstaker/comments/ggmbvd/a_comprehensive_look_at_hardware_for_staking/) by LamboshiNakaghini
 
 ### Mainnet
-[How to stake on ETH2 Mainnet with Lighthouse on Ubuntu](https://www.coincashew.com/coins/overview-eth/guide-how-to-stake-on-eth2-with-lighthouse) by coincashew
 
 [Setup an Eth2 Mainnet Validator System With Prysm on Ubuntu](https://github.com/metanull-operator/eth2-ubuntu) by metanull-operator
 

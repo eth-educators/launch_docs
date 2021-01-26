@@ -61,7 +61,11 @@ The **BEST** place to learn about Ethereum 2 is by reading [EIP 2982, the propos
 * See the clients table for guides.
 
 ## Security Best Practices
+
+* [ETH2 staking best practices by phil.eth](https://docs.google.com/document/d/1WZuP-K0S4RKlwH4GQVcGpgzVYPdpZF0WiHsawnmOKxM/edit?usp=drivesdk)
+
 * [/u/masterRoshi9 Guide](https://www.reddit.com/r/ethstaker/comments/jtn2tx/examining_security_considerations_for_staking/)
+
 * [Coincashew Guide](https://www.coincashew.com/coins/overview-eth/guide-or-security-best-practices-for-a-eth2-validator-beaconchain-node)
 
 ## Types of Staking
@@ -76,12 +80,14 @@ The **BEST** place to learn about Ethereum 2 is by reading [EIP 2982, the propos
 
 ## Ethereum 2 Staking Clients
 
+
 |Client|Runs on|Documentation|Discord|Website|Launchpad Guide|
 |---|---|---|---|---|---|
 |Ligthhouse| Linux, MacOS, Windows | [Documentation](https://lighthouse-book.sigmaprime.io/) | [Discord](https://discord.gg/cyAszAh) | [Website](https://sigmaprime.io/) | [Launchpad](https://launchpad.ethereum.org/lighthouse) | 
 |Nimbus| Linux, MacOS, Windows, [Android](https://our.status.im/building-nimbus-on-android/) | [Documentation](https://status-im.github.io/nim-beacon-chain/) | [Discord](https://t.co/CYjHgi6wFI?amp=1) | [Website](https://nimbus.team/) | [Launchpad](https://launchpad.ethereum.org/nimbus) | 
 |Prysm| Linux, MacOS, Windows | [Documentation](https://docs.prylabs.network/docs/) | [Discord](https://discord.gg/KSA7rPr) | [Website](https://prysmaticlabs.com/) | [Launchpad](https://launchpad.ethereum.org/prysm) | 
 |Teku| Linux, MacOS, Windows | [Documentation](https://docs.teku.pegasys.tech/en/latest/) | [Discord](https://discord.gg/7hPv2T6) | [Website](https://pegasys.tech/teku/) | [Launchpad](https://launchpad.ethereum.org/teku) | 
+
 
 ## Choosing a Client
 Choosing a client that is right for you can be challenging. In general, the clients listed above are all viable options for staking on Eth2 - they are all compliant with the latest Eth2 specification. Each client uses a slightly different configurtation and set-up, and offers different features. Ideally you can try each client out on the Pyrmont testnet (see the Complete Guides in the table above) to get a feel for which client is right for you.
@@ -104,8 +110,6 @@ Also check this slightly out of date (but still relevant) breakdown of Ethereum 
 [Hardware Staking Guide](https://www.reddit.com/r/ethstaker/comments/ggmbvd/a_comprehensive_look_at_hardware_for_staking/) by LamboshiNakaghini
 
 ### Mainnet
-
-[Setup an Eth2 Mainnet Validator System With Prysm on Ubuntu](https://github.com/metanull-operator/eth2-ubuntu) by metanull-operator
 
 [Getting started with Eth2 Staking on Docker](https://www.youtube.com/watch?v=YxrsJO4Wra8) by YorickDowne
 

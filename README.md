@@ -124,13 +124,14 @@ Also check this slightly out of date (but still relevant) breakdown of Ethereum 
 ## Staking Risks
 
 Staking on Ethereum 2.0 has some risks. Some common things to look out for are not limited to:
-* If you use the same validator keys on two different machines at the same time, this will result in a slash. This means redundant validating nodes should not be attempted by home stakers.
-* Hardware related issues can impact a staking setup. For example: power failures, hardware failures, running out of disk space, etc.
-* Networking related issues such as DDoS attacks or general connectivity issues (e.g. severed cable).
-* Software related issues such as bugs in client software or OS issues.
-* Validator Key issues such as lost or stolen phrase/passwords/private keys.
-* ETH2 related issues relating to mainnet problems.
-* Taxation may apply to staking rewards depending on your local tax laws. Check with a licensed professional.
+
+- If you use the same validator keys on two different machines at the same time, this will result in a slash. This means redundant validating nodes should not be attempted by home stakers.
+- Hardware related issues can impact a staking setup. For example: power failures, hardware failures, running out of disk space, etc.
+- Networking related issues such as DDoS attacks or general connectivity issues (e.g. severed cable).
+- Software related issues such as bugs in client software or OS issues.
+- Validator Key issues such as lost or stolen phrase/passwords/private keys.
+- ETH2 related issues relating to mainnet problems.
+- Taxation may apply to staking rewards depending on your local tax laws. Check with a licensed professional.
 
 ---
 

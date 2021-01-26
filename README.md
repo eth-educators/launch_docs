@@ -7,13 +7,13 @@ Here are links to some things mentioned in this video:
 
 * [The EthStaker discord channel](http://invite.gg/ethstaker) managed by /u/butta_tribot
 * [POAP (Proof of Attendance Protocol)](https://app.poap.xyz) presented by /u/worthalter
-* [The Eth2-Studymaster Program](https://reddit.com/r/ethstaker/wiki/studymaster) developed by /u/superphiz soon to be managed by /u/unvetica_solutions
-* [Eth2SCC on Twitter](https://twitter.com/eth2scc) managed by /u/LamboshiNakaghini
+* [The Eth2-Studymaster Program](https://www.ethereumstudymaster.com) developed by /u/superphiz soon to be managed by /u/unvetica_solutions
+* [EthStkaer on Twitter](https://twitter.com/ethstaker) managed by /u/LamboshiNakaghini
 * [r/ethfinance](https://reddit.com/r/ethfinance) home of a fantastic daily thread with lots of valuable conversation
 * [Beaconcha.in](https://beaconcha.in) an Ethereum 2 chain explorer developed by bitfly where /u/butta_tribot keeps an eye on the node
 
 ---
-I would like to warmly welcome everyone to r/ethstaker. Please protect this community's philosophy by respecting our rules. Let me quote the most important ones here for reference:
+I would like to warmly welcome everyone to r/ethstaker. Please protect this community's philosophy by respecting our rules. Let me quote a few here for reference:
     
 * Note that the the primary goal of this community is to be welcoming first and knowledgable second.
 * We welcome all persons regardless of identifying criteria. As an extension of that, we will work harder to welcome those who may appear different.
@@ -31,24 +31,24 @@ Ethereum 2 Staking means locking up 32 Ether and running a piece of software tha
 
 The **BEST** place to learn about Ethereum 2 is by reading [EIP 2982, the proposal to integrate Ethereum 2 into the Ethereum 1 system](https://github.com/ethereum/EIPs/blob/5dc1b8ddd645af01c81da8817b6bcc8ff883b9d6/EIPS/eip-2982.md). /u/superphiz and /u/unvetica_solutions did a [full reading of this EIP and posted it to YouTube](https://www.youtube.com/watch?v=6_yW7mb6glQ).
 
-Estimate your potential earnings from staking with Ethereum: https://beaconcha.in/calculator
-
 ## You should get involved!
 
  * Sign up for our [collaboration groups](https://docs.google.com/forms/d/e/1FAIpQLScaK2zl-oa3QiYpxFQCuE9kHWMxGJOBLl_s82TryZ7J43GDPg/viewform) where you can be paired with four other stakers to join a private discord chat to get to know each other and swap experiences.
  * Participate in the [Ethereum Studymaster](https://ethereumstudymaster.com) where you can take quizzes to learn more about Ethereum and earn POAPs to demonstrate your knowledge.
 
+## Staking FAQ's
+ - [Lamboshi's FAQ](https://www.reddit.com/r/ethstaker/comments/ju61pf)
 
 ## Staking Incentives / Rewards 
 ### Why stake? 
 - Help secure the Etherem network. 
 - Help maintain decentralization/security. 
-- Earn a retrun on your staked ETH.
+- Earn a return on your staked ETH.
 
 ### Staking Rewards
 - Returns depend on how much ETH is staked.
 - You will receive a return on your stake, in regular small increments.
-- (Post the staking returns chart here)
+- [Return Calculator](https://beaconcha.in/calculator)
 
 ## Getting started on mainnet
 
@@ -57,11 +57,15 @@ Estimate your potential earnings from staking with Ethereum: https://beaconcha.i
 
 ## Getting started on a testnet
 
-* To get started on the Medalla Testnet, check out https://medalla.launchpad.ethereum.org
+* To get started on the Pyrmont Testnet, check out https://pyrmont.launchpad.ethereum.org
 * See the clients table for guides.
 
 ## Security Best Practices
+
 * [ETH2 staking best practices by phil.eth](https://docs.google.com/document/d/1WZuP-K0S4RKlwH4GQVcGpgzVYPdpZF0WiHsawnmOKxM/edit?usp=drivesdk)
+
+* [/u/masterRoshi9 Guide](https://www.reddit.com/r/ethstaker/comments/jtn2tx/examining_security_considerations_for_staking/)
+
 * [Coincashew Guide](https://www.coincashew.com/coins/overview-eth/guide-or-security-best-practices-for-a-eth2-validator-beaconchain-node)
 
 ## Types of Staking
@@ -76,24 +80,37 @@ Estimate your potential earnings from staking with Ethereum: https://beaconcha.i
 
 ## Ethereum 2 Staking Clients
 
-|Client|Runs on|Documentation|Discord|Website|Launchpad Guide|Pyrmont Guides|Mainnet Guides|
-|---|---|---|---|---|---|---|---|
-|Ligthhouse| Linux, MacOS, Windows | [Documentation](https://lighthouse-book.sigmaprime.io/) | [Discord](https://discord.gg/cyAszAh) | [Website](https://sigmaprime.io/) | [Launchpad](https://launchpad.ethereum.org/lighthouse) | [Somer Esat's Guide](https://someresat.medium.com/guide-to-staking-on-ethereum-2-0-ubuntu-pyrmont-lighthouse-a634d3b87393?sk=459494148fdab0b03c675ea0864d7486) |[Coincashew's Guide](https://www.coincashew.com/coins/overview-eth/guide-how-to-stake-on-eth2-with-lighthouse) |
-|Nimbus| Linux, MacOS, Windows, [Android](https://our.status.im/building-nimbus-on-android/) | [Documentation](https://status-im.github.io/nim-beacon-chain/) | [Discord](https://t.co/CYjHgi6wFI?amp=1) | [Website](https://nimbus.team/) | [Launchpad](https://launchpad.ethereum.org/nimbus) | [Somer Esat's Guide](https://medium.com/@SomerEsat/guide-to-staking-on-ethereum-2-0-ubuntu-medalla-nimbus-5f4b2b0f2d7c?source=friends_link&sk=ee272e7d2c5c53f9e69f302155cb1714) | Guide Needed |
-|Prysm| Linux, MacOS, Windows | [Documentation](https://docs.prylabs.network/docs/) | [Discord](https://discord.gg/KSA7rPr) | [Website](https://prysmaticlabs.com/) | [Launchpad](https://launchpad.ethereum.org/prysm) | [Somer Esat's Guide](https://someresat.medium.com/guide-to-staking-on-ethereum-2-0-ubuntu-pyrmont-lighthouse-a634d3b87393?sk=459494148fdab0b03c675ea0864d7486)  | [metanull-operator's Guide](https://github.com/metanull-operator/eth2-ubuntu)  |
-|Teku| Linux, MacOS, Windows | [Documentation](https://docs.teku.pegasys.tech/en/latest/) | [Discord](https://discord.gg/7hPv2T6) | [Website](https://pegasys.tech/teku/) | [Launchpad](https://launchpad.ethereum.org/teku) | [Somer Esat's Guide](https://medium.com/@SomerEsat/170e2c52bd23?source=friends_link&sk=5f88cc288bb247f1711b729ef91de003) | Guide Needed |
+
+|Client|Runs on|Documentation|Discord|Website|Launchpad Guide|
+|---|---|---|---|---|---|
+|Ligthhouse| Linux, MacOS, Windows | [Documentation](https://lighthouse-book.sigmaprime.io/) | [Discord](https://discord.gg/cyAszAh) | [Website](https://sigmaprime.io/) | [Launchpad](https://launchpad.ethereum.org/lighthouse) | 
+|Nimbus| Linux, MacOS, Windows, [Android](https://our.status.im/building-nimbus-on-android/) | [Documentation](https://status-im.github.io/nim-beacon-chain/) | [Discord](https://t.co/CYjHgi6wFI?amp=1) | [Website](https://nimbus.team/) | [Launchpad](https://launchpad.ethereum.org/nimbus) | 
+|Prysm| Linux, MacOS, Windows | [Documentation](https://docs.prylabs.network/docs/) | [Discord](https://discord.gg/KSA7rPr) | [Website](https://prysmaticlabs.com/) | [Launchpad](https://launchpad.ethereum.org/prysm) | 
+|Teku| Linux, MacOS, Windows | [Documentation](https://docs.teku.pegasys.tech/en/latest/) | [Discord](https://discord.gg/7hPv2T6) | [Website](https://pegasys.tech/teku/) | [Launchpad](https://launchpad.ethereum.org/teku) | 
+
 
 ## Choosing a Client
-Choosing a client that is right for you can be challenging. In general, the clients listed above are all viable options for staking on Eth2 - they are all compliant with the latest Eth2 specification. Each client uses a slightly different configurtation and set-up, and offers different features. Ideally you can try each client out on the Medalla testnet (see the Complete Guides in the table above) to get a feel for which client is right for you.
+Choosing a client that is right for you can be challenging. In general, the clients listed above are all viable options for staking on Eth2 - they are all compliant with the latest Eth2 specification. Each client uses a slightly different configurtation and set-up, and offers different features. Ideally you can try each client out on the Pyrmont testnet (see the Complete Guides in the table above) to get a feel for which client is right for you.
 
 Also check this slightly out of date (but still relevant) breakdown of Ethereum 2.0 clients: [Ethereum 2.0 and the Seven Clients](https://medium.com/@SomerEsat/ethereum-and-the-seven-clients-648815c4ac71?source=friends_link&sk=f189004508282177cc15b17348ba8b50) by /u/SomerEsat.
 
 ## General Guides
 
+### Installation
+
+|Client|Somer Esat (Testnet)|Somer Esat (Mainnet)|CoinCashew (Testnet)|CoinCashew (Mainnet)
+|---|---|---|---|---|
+|Ligthhouse| [Somer Esat (Testnet)](https://someresat.medium.com/guide-to-staking-on-ethereum-2-0-ubuntu-pyrmont-lighthouse-a634d3b87393?sk=459494148fdab0b03c675ea0864d7486) | [Somer Esat (Mainnet)](https://someresat.medium.com/guide-to-staking-on-ethereum-2-0-ubuntu-lighthouse-41de20513b12?sk=ac7477fd99b6648a5745a3e327f2701c) | [CoinCashew (Testnet)](https://www.coincashew.com/coins/overview-eth/guide-or-how-to-setup-a-validator-on-eth2-testnet) | [CoinCashew (Mainnet)](https://www.coincashew.com/coins/overview-eth/guide-or-how-to-setup-a-validator-on-eth2-mainnet) |
+|Nimbus| [Somer Esat (Testnet)](https://someresat.medium.com/guide-to-staking-on-ethereum-2-0-ubuntu-pyrmont-nimbus-e6592c110843?sk=c0ef6aefdf68305739832a569ed0a454) | [Somer Esat (Mainnet)](https://someresat.medium.com/guide-to-staking-on-ethereum-2-0-ubuntu-nimbus-e86bdee8c550?sk=6d2d96e714d0ec41c702b94bddec5040) | [CoinCashew (Testnet)](https://www.coincashew.com/coins/overview-eth/guide-or-how-to-setup-a-validator-on-eth2-testnet)  |[CoinCashew (Mainnet)](https://www.coincashew.com/coins/overview-eth/guide-or-how-to-setup-a-validator-on-eth2-mainnet) |
+|Prysm| [Somer Esat (Testnet)](https://someresat.medium.com/guide-to-staking-on-ethereum-2-0-ubuntu-pyrmont-prysm-a10b5129c7e3?sk=bf99be4e432410badda3d2844f3d95d3) |[Somer Esat (Mainnet)](https://someresat.medium.com/guide-to-staking-on-ethereum-2-0-ubuntu-prysm-56f681646f74?sk=b61691b713d37802b8345855dc356b02) | [CoinCashew (Testnet)](https://www.coincashew.com/coins/overview-eth/guide-or-how-to-setup-a-validator-on-eth2-testnet) |[CoinCashew (Mainnet)](https://www.coincashew.com/coins/overview-eth/guide-or-how-to-setup-a-validator-on-eth2-mainnet) |
+|Teku| [Somer Esat (Testnet)](https://someresat.medium.com/guide-to-staking-on-ethereum-2-0-testnet-ubuntu-pyrmont-teku-3da74372910?sk=835747c0fab93ccf85b4866ffae74b25) | [Somer Esat (Mainnet)](https://someresat.medium.com/guide-to-staking-on-ethereum-2-0-ubuntu-teku-e4247e7c75a1?sk=6d63b55ebe821bd18788c99fa81e437c) |[CoinCashew (Testnet)](https://www.coincashew.com/coins/overview-eth/guide-or-how-to-setup-a-validator-on-eth2-testnet) |[CoinCashew (Mainnet)](https://www.coincashew.com/coins/overview-eth/guide-or-how-to-setup-a-validator-on-eth2-mainnet) |
+
+
 ### Hardware
 [Hardware Staking Guide](https://www.reddit.com/r/ethstaker/comments/ggmbvd/a_comprehensive_look_at_hardware_for_staking/) by LamboshiNakaghini
 
 ### Mainnet
+
 [Getting started with Eth2 Staking on Docker](https://www.youtube.com/watch?v=YxrsJO4Wra8) by YorickDowne
 
 [Running a staking system using Ubuntu 20.04 LTS on a NUC 10i5FNK](https://github.com/metanull-operator/eth2-ubuntu) by metanull-operator
@@ -113,10 +130,7 @@ Staking on Ethereum 2.0 has some risks. Some common things to look out for are n
 - ETH2 related issues relating to mainnet problems.
 - Taxation may apply to staking rewards depending on your local tax laws. Check with a licensed professional.
 
-## Getting Help
-- Links (Articles/videos/etc.)
-- Reddits
-- Discords
+---
 
 Before you go, don't forget to make plans to join us in [Hawaii in 2022](https://superphiz.github.io/hawaii/).
 

@@ -31,6 +31,8 @@ Ethereum 2 Staking means locking up 32 Ether and running a piece of software tha
 
 The **BEST** place to learn about Ethereum 2 is by reading [EIP 2982, the proposal to integrate Ethereum 2 into the Ethereum 1 system](https://github.com/ethereum/EIPs/blob/5dc1b8ddd645af01c81da8817b6bcc8ff883b9d6/EIPS/eip-2982.md). /u/superphiz and /u/unvetica_solutions did a [full reading of this EIP and posted it to YouTube](https://www.youtube.com/watch?v=6_yW7mb6glQ).
 
+Want to see what a running validator looks like? Check out our live validator twitch stream: https://www.twitch.tv/ethstaker/
+
 ## You should get involved!
 
  * Sign up for our [collaboration groups](https://docs.google.com/forms/d/e/1FAIpQLScaK2zl-oa3QiYpxFQCuE9kHWMxGJOBLl_s82TryZ7J43GDPg/viewform) where you can be paired with four other stakers to join a private discord chat to get to know each other and swap experiences.
